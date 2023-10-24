@@ -4,6 +4,21 @@
 @tailwind utilities;
 
 /* Your Awesome Styles */
-* {
+/** {
     outline: 1px dotted gray;
-}
+}*/
+
+* {
+    background-color: #064E3B;
+  }
+  
+  time {
+    border-radius: 9999px;
+    width: fit-content;
+    padding: 10px;
+    border: 8px dotted silver;
+    margin: 0; 
+    font-size: 7rem;
+    line-height: 1;
+    
+  }
